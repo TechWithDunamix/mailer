@@ -34,3 +34,4 @@ Mailer Commit 33 - Clean up SMTP response parser
 Mailer Commit 34 - Add support for custom ports
 Mailer Commit 35 - Add support for custom ports
 Mailer Commit 36 - Clean up SMTP response parser
+Mailer Commit 37 - Add support for custom ports
