@@ -18,3 +18,4 @@ Mailer Commit 17 - Clean up SMTP response parser
 Mailer Commit 18 - Clean up SMTP response parser
 Mailer Commit 19 - Add retry mechanism for failed mails
 Mailer Commit 20 - Fix broken headers on MIME build
+Mailer Commit 21 - Refactor send_email function
