@@ -5,3 +5,4 @@ Mailer Commit 4 - Refactor send_email function
 Mailer Commit 5 - Fix TLS handshake issue
 Mailer Commit 6 - Add retry mechanism for failed mails
 Mailer Commit 7 - Implement connection pool
+Mailer Commit 8 - Improve logging for mail queue
