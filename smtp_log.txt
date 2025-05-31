@@ -8,3 +8,4 @@ Mailer Commit 7 - Implement connection pool
 Mailer Commit 8 - Improve logging for mail queue
 Mailer Commit 9 - Add retry mechanism for failed mails
 Mailer Commit 10 - Improve logging for mail queue
+Mailer Commit 11 - Add SMTP wrapper class
