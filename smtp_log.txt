@@ -15,3 +15,4 @@ Mailer Commit 14 - Implement connection pool
 Mailer Commit 15 - Update README with usage
 Mailer Commit 16 - Clean up SMTP response parser
 Mailer Commit 17 - Clean up SMTP response parser
+Mailer Commit 18 - Clean up SMTP response parser
