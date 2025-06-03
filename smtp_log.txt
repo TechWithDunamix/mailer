@@ -32,3 +32,4 @@ Mailer Commit 31 - Improve logging for mail queue
 Mailer Commit 32 - Add retry mechanism for failed mails
 Mailer Commit 33 - Clean up SMTP response parser
 Mailer Commit 34 - Add support for custom ports
+Mailer Commit 35 - Add support for custom ports
