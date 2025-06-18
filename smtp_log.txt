@@ -37,3 +37,4 @@ Mailer Commit 36 - Clean up SMTP response parser
 Mailer Commit 37 - Add support for custom ports
 Mailer Commit 38 - Update README with usage
 Mailer Commit 39 - Add SMTP wrapper class
+Mailer Commit 40 - Add retry mechanism for failed mails
