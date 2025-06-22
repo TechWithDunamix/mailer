@@ -27,3 +27,4 @@ Mailer Commit 26 - Update README with usage
 Mailer Commit 27 - Add support for custom ports
 Mailer Commit 28 - Add retry mechanism for failed mails
 Mailer Commit 29 - Refactor send_email function
+Mailer Commit 30 - Add SMTP wrapper class
