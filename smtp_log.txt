@@ -22,3 +22,4 @@ Mailer Commit 21 - Refactor send_email function
 Mailer Commit 22 - Add support for custom ports
 Mailer Commit 23 - Clean up SMTP response parser
 Mailer Commit 24 - Implement connection pool
+Mailer Commit 25 - Add support for custom ports
