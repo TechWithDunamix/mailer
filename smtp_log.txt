@@ -20,3 +20,4 @@ Mailer Commit 19 - Add retry mechanism for failed mails
 Mailer Commit 20 - Fix broken headers on MIME build
 Mailer Commit 21 - Refactor send_email function
 Mailer Commit 22 - Add support for custom ports
+Mailer Commit 23 - Clean up SMTP response parser
