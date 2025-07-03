@@ -46,3 +46,4 @@ Mailer Commit 45 - Implement connection pool
 Mailer Commit 46 - Add retry mechanism for failed mails
 Mailer Commit 47 - Fix broken headers on MIME build
 Mailer Commit 48 - Add support for custom ports
+Mailer Commit 49 - Update README with usage
