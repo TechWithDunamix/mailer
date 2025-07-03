@@ -12,3 +12,4 @@ Mailer Commit 11 - Add SMTP wrapper class
 Mailer Commit 12 - Add retry mechanism for failed mails
 Mailer Commit 13 - Implement connection pool
 Mailer Commit 14 - Implement connection pool
+Mailer Commit 15 - Update README with usage
