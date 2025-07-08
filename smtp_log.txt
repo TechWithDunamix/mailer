@@ -2,3 +2,4 @@ Mailer Commit 1 - Update README with usage
 Mailer Commit 2 - Update README with usage
 Mailer Commit 3 - Update README with usage
 Mailer Commit 4 - Refactor send_email function
+Mailer Commit 5 - Fix TLS handshake issue
