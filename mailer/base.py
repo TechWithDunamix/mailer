@@ -5,6 +5,7 @@ Core email functionality for the Nexios Mailer module.
 import smtplib
 import logging
 import asyncio
+import traceback
 from typing import Dict, List, Optional, Union, Any
 from pathlib import Path
 from email.mime.text import MIMEText
@@ -69,6 +70,7 @@ class SMTPMailer:
             return True
             
         except Exception as e:
+            traceback.print_exc()
             logger.error(f"Failed to connect to SMTP server: {e}")
             return False
     
@@ -95,6 +97,8 @@ class SMTPMailer:
         """
         try:
             # Validate email addresses
+            if not message.to_emails:
+                raise ValueError("No recipient email addresses provided")
             to_emails = validate_emails(message.to_emails)
             cc_emails = validate_emails(message.cc_emails) if message.cc_emails else []
             bcc_emails = validate_emails(message.bcc_emails) if message.bcc_emails else []
